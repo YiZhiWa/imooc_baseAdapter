@@ -1,0 +1,2 @@
+# imooc_baseAdapter
+根据慕课上鸿洋大神讲的万能适配器的Demo
